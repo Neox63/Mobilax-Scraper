@@ -1,0 +1,16 @@
+{
+  "name": "scraper-mobilax",
+  "version": "1.0.0",
+  "description": "Web Scraper For Mobilax",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neox",
+  "license": "ISC",
+  "dependencies": {
+    "json-as-xlsx": "^1.1.8",
+    "puppeteer": "^6.0.0"
+  }
+}
