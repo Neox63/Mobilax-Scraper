@@ -17,6 +17,12 @@
 npm install or run install.bat
 ```
 
+## Configuration
+
+```sh
+Edit config.json with your credentials to access the website
+```
+
 ## Usage
 
 ```sh
