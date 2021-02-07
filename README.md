@@ -20,8 +20,7 @@ npm install or run install.bat
 ## Configuration
 
 ```sh
-Edit config.json with the informations of a business account to connect to the website and get access to the prices 
-and other hidden informations
+Edit config.json with your login informations
 ```
 
 ## Usage
