@@ -38,7 +38,7 @@ npm run start or run start.bat
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Neox63/Web-Scraper-Public/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Neox63/Mobilax-Scraper/issues). 
 
 ## Show your support
 
