@@ -4,9 +4,6 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <a href="https://twitter.com/ma_this_" target="_blank">
-    <img alt="Twitter: ma_this_" src="https://img.shields.io/twitter/follow/ma_this_.svg?style=social" />
-  </a>
 </p>
 
 > This is a NodeJS built tool to scrap https://mobilax.fr/, it retrieve data and exports it as an Excel file. This is a public version (and open source ofc).
@@ -39,7 +36,6 @@ npm run start or run start.bat
 👤 **Neox**
 
 * Website: mathiis.tk
-* Twitter: [@ma\_this\_](https://twitter.com/ma\_this\_)
 * Github: [@Neox63](https://github.com/Neox63)
 
 ## 🤝 Contributing
